@@ -1,13 +1,4 @@
 {
-  
-  "default_prefix": "a!",
-    "owners": "682981714523586606",
-  "guildid": "873293679928938566" ,
-"support_server": "https://discord.gg/WjhB7Ukr",
- "PREFIX": "a",
- "mongodb": "",
- "database": "",
- "AME_API": "",
- "COLOR": "00FFFF",
- "mongourl": ""
+  "token": "add your token auth here",
+  "prefix": "add your desired prefix"
 }
